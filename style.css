@@ -27,12 +27,26 @@ button {
     margin-right: 5px;
     margin-bottom: 20px;
     margin-top: 5px;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: arial,sans-serif;
+    padding:  0px 16px 0px 16px;
+    min-width: 54px;
+    height: 36px;
+    line-height: 27px;
 }
 
 #btn-right {
     margin-left: 5px;
     margin-bottom: 20px;
     margin-top: 5px;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: arial,sans-serif;
+    padding:  0px 16px 0px 16px;
+    min-width: 54px;
+    height: 36px;
+    line-height: 27px;
 }
 #bottom-text {
     font-family: arial,sans-serif;
