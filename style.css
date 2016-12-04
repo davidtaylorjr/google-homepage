@@ -1,9 +1,25 @@
 #searchbox {
-    width: 55%;
+    width: 50%;
+    height: 35px;
     margin: 5px 5px 5px 5px;
-    background-color: whitesmoke;
+    background-color: white;
+    border: 1px solid lightgray;
+    
 }
 
-#googleico {
-    
+
+button {
+    padding: 10px;
+    margin: 5px;
+    border: 0px;
+    background-color: #f2f2f2;
+    color: #757575;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 11px 4px 11px 4px;
+    padding:  0px 16px 0px 16px;
+    min-width: 54px;
+    height: 36px;
+    line-height: 27px;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
 }
