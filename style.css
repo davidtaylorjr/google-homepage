@@ -1,12 +1,12 @@
-::-webkit-input-placeholder { color:blue; text-align: right; }
-::-moz-placeholder { color:blue; text-align: right; } /* firefox 19+ */
-:-ms-input-placeholder { color:blue; text-align: right; } /* ie */
-input:-moz-placeholder { color:blue; text-align: right; }
+::-webkit-input-placeholder { color:blue; text-align: right; font-size: 1.5em; padding-right: 10px;}
+::-moz-placeholder {color:blue; text-align: right; font-size: 1.5em; padding-right: 10px; } /* firefox 19+ */
+:-ms-input-placeholder { color:blue; text-align: right; font-size: 1.5em; padding-right: 10px; } /* ie */
+input:-moz-placeholder { color:blue; text-align: right; font-size: 1.5em; padding-right: 10px; }
 
 #searchbox {
-    width: 50%;
+    width: 40%;
     height: 35px;
-    margin: 5px 5px 5px 5px;
+    margin: 15px 5px 25px 5px;
     background-color: white;
     border: 1px solid lightgray;
     
