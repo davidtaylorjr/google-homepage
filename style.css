@@ -1,3 +1,8 @@
+::-webkit-input-placeholder { color:blue; text-align: right; }
+::-moz-placeholder { color:blue; text-align: right; } /* firefox 19+ */
+:-ms-input-placeholder { color:blue; text-align: right; } /* ie */
+input:-moz-placeholder { color:blue; text-align: right; }
+
 #searchbox {
     width: 50%;
     height: 35px;
